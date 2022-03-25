@@ -1,6 +1,3 @@
-🌱 I’m currently learning ...<br/>
-📫 How to reach me: ... ankitmankar012@gmail.com
-
 <!--
 **ankitmankar0/ankitmankar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,8 +26,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-I am a Frontend developer 🧩 who is passionate about building ideas in open source communities. Currently learning JavaScript and maintaining open source projects. Working with technologies like HTML, CSS, Sass, JavaScript, React, Tailwind, BootStrap, Git & Github, Etc.
-Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar. 🎸
+I am a Frontend developer 🧩 who is passionate about building ideas in open source communities. Currently learning JavaScript and maintaining open source projects. Working with technologies like HTML, CSS, JavaScript, BootStrap, Git & Github, C#, Azure Etc.
+Most of my time as a developer is spent on building projects, learning new things everyday or just playing some PC Games.🎮
 <br/>
 <p align="center">
  <a href="https://github.com/ankitmankar0/github-readme-stats"><img alt="Ankit Mankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankitmankar0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=060A0CD0" /></a>
