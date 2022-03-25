@@ -40,13 +40,3 @@ Most of my time as a developer is spent on building projects, learning new thing
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Mankar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmankar0&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/ankit-mankar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ankitmankar17"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ankit.mankar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/ankit.mankar1"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
-</p>
