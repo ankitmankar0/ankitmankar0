@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+<p align="left">
+  <a href="http://twitter.com/ankitmankar17">
+    <img src="https://img.shields.io/twitter/follow/evavic44?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-mankar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/ankit.mankar"> 
+    <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=black">
+  </a>
+</p>
+
+I am a Frontend developer 🧩 who is passionate about building ideas in open source communities. Currently learning JavaScript and maintaining open source projects. Working with technologies like HTML, CSS, Sass, JavaScript, React, Tailwind, BootStrap, Git & Github, Etc.
+Most of my time as a developer is spent on building projects, learning new things everyday or just playing some music with my guitar. 🎸
 <br/>
 <p align="center">
  <a href="https://github.com/ankitmankar0/github-readme-stats"><img alt="Ankit Mankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankitmankar0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=060A0CD0" /></a>
