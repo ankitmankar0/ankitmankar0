@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-I am a Frontend developer 🧩 who is passionate about building ideas in open source communities. Currently learning JavaScript and maintaining open source projects. Working with technologies like HTML, CSS, JavaScript, BootStrap, Git & Github, C#, Azure Etc.
+I am a Frontend developer 🧩 who is passionate about building ideas in open source communities. Currently learning C#. Working with technologies like HTML, CSS, JavaScript, BootStrap, Git & Github, C#, Azure Etc.
 Most of my time as a developer is spent on building projects, learning new things everyday or just playing some PC Games.🎮
 <br/>
 <p align="center">
