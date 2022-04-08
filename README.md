@@ -70,7 +70,7 @@
 <img width="105" height="105" src="https://raw.githubusercontent.com/ankitmankar0/ankitmankar0/master/assets/icons/boy.png" />
   
 
-'A Superhuman: Belief in Karma with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
+'“We must question the story logic of having an all-knowing-all-powerful God, who creates faulty Humans, and then blames then for his own mistakes.” – Gene Roddenberry 🎊💓'
   
 Started my career at the age of Twenty Two (22) as a Front End Developer. I have two (2) plus years of predominant hands-on experience gained by doing freelance on different platforms. I'm currently specialized working as a Front End Developer and User Interface (UI) & Experience (UX).
   
