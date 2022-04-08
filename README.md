@@ -10,7 +10,7 @@
   
 <!--- header image --->
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./assets/header/Tapelight Studio.png">
+  <img alt="" style="{max-height: 0px}" src="./assets/header/Header.png">
 </p>
 
 <!--- portfolio launch image --->
@@ -67,11 +67,11 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/boy.png" />
+<img width="105" height="105" src="https://raw.githubusercontent.com/ankitmankar0/ankitmankar0/main/assets/icons/boy.png" />
 
-'A Superhuman: Belief in God with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
+'A Superhuman: Belief in Karma with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
   
-Started my career at the age of Sixteen (16) as a Graphic Designer. I have four (4) plus years of predominant hands-on experience gained by doing freelance on different platforms. I'm currently specialized working as a Digital Creator, Graphic Designer, and User Interface (UI) & Experience (UX).
+Started my career at the age of Twenty Two (22) as a Front End Developer. I have two (2) plus years of predominant hands-on experience gained by doing freelance on different platforms. I'm currently specialized working as a Front End Developer and User Interface (UI) & Experience (UX).
   
 
   <!--- Personal --->  
@@ -79,8 +79,6 @@ Started my career at the age of Sixteen (16) as a Graphic Designer. I have four 
 <h1 align="center">
     Personal 
     </h2>
-
-Fantasy Fulfilled `Insha-Allah` Dreamy leads to `Allahamdullah`.
   
 Building `Elegant` Open Source Repository and Projects.
   
@@ -90,7 +88,7 @@ Aspire `Broke` those with `Excellence` who try to mess up `Soft Heart`.
   
 Smarting `Ignorance/absence` those who lose diamond.
   
-Believe `in Allah Almighty` Exclusively and Unconditionally.
+Believe `in Karma` Exclusively and Unconditionally.
   
   
   <!--- Education --->  
@@ -99,11 +97,13 @@ Believe `in Allah Almighty` Exclusively and Unconditionally.
     Education 
     </h2>
 
-  Fifth Semester - `Bachelour` in `Software Engineering` `(BSSE)` - Comsats University Islamabad
+  Second Semester - `Masters` in `Computer Science & Engineering` `(CSE)` - GHRCE Nagpur University
   
-  `Intermediate` in `Computer Science` `(ICS)` - Punjab Group of College's 
+  `B-Tech` in `Computer Science & Engineering` `(CSE)` - GHRCE Autonomous College Nagpur
   
-  `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Islamabad Model College For Boys
+  `Intermediate` in `Science` - Jawaharlal Neharu College Nagpur 
+  
+  `Secondary School` Certificate `(SSC)` or `Matriculation` Examination - Nagpur
 
   <!--- Portfolio/Website --->  
   
