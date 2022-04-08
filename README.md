@@ -67,7 +67,8 @@
   ABOUT ME
 </h1>
   
-<img width="105" height="105" src="https://raw.githubusercontent.com/ankitmankar0/ankitmankar0/main/assets/icons/boy.png" />
+<img width="105" height="105" src="https://raw.githubusercontent.com/ankitmankar0/ankitmankar0/master/assets/icons/boy.png" />
+  
 
 'A Superhuman: Belief in Karma with a Blindfold too & Not all heroes wear capes & have superpowers 🎊💓'
   
